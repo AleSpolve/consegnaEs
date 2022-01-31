@@ -1,0 +1,24 @@
+.row div{
+    border :1px solid black;
+    height: 100px;
+    width: 200px;
+}
+.bottoneCentro{
+
+    position: absolute;
+    left : 50%;
+    right : 50%;
+}
+.larghezza{
+
+    font-size: 75px;
+}
+.bottoni{
+
+    margin-left: 95px;
+}
+.centroTab{
+
+    margin-left: 300px;
+    margin-right: 300px;
+}
